@@ -1,0 +1,6 @@
+{
+  "name": "AV NEWS TV - Live Streaming & Digital Platform",
+  "description": "24x7 Live News Streaming, Breaking News, Ground Reports, and Digital News Platform for Telangana, National, and World by Ayudh Vikas Foundation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
